@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Examen en Línea</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="welcome-screen" class="container">
+        <h1>Bienvenido al Examen en Línea</h1>
+        <button id="start-button">Iniciar Examen</button>
+    </div>
+
+    <div id="exam-screen" class="container" style="display:none;">
+        <div id="timer"></div>
+        <div id="question-container"></div>
+        <button id="next-button" style="display:none;">Siguiente Pregunta</button>
+    </div>
+
+    <div id="result-screen" class="container" style="display:none;">
+        <h1>Resultados del Examen</h1>
+        <p id="result-message"></p>
+        <button id="retry-button">Reintentar</button>
+        <button id="exit-button">Salir</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

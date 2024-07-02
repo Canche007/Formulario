@@ -1,0 +1,4 @@
+C:\Users\diego\Documents\HTML\preguntas\obj\Debug\net7.0\preguntas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Documents\HTML\preguntas\obj\Debug\net7.0\preguntas.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\HTML\preguntas\obj\Debug\net7.0\preguntas.AssemblyInfo.cs
+C:\Users\diego\Documents\HTML\preguntas\obj\Debug\net7.0\preguntas.csproj.CoreCompileInputs.cache
